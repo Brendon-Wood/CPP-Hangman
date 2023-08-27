@@ -10,6 +10,4 @@ bool loadWordsFromFile(const std::string& filename, std::vector<std::string>& wo
 bool alreadyGuessed(const std::string& guessedWord, char guess);
 bool checkGuess(const std::string& secretWord, std::string& guessedWord, char guess);
 
-// Rest of the functions remain the same
-
 #endif

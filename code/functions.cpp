@@ -44,4 +44,4 @@ bool checkGuess(const std::string& secretWord, std::string& guessedWord, char gu
 
     return correctGuess;
 }
-// Rest of the functions remain the same
+
